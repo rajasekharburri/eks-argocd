@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/daws-86s/eks-argocd.git
+    repoURL: https://github.com/rajasekharburri/eks-argocd.git
     targetRevision: main # Specifies the branch, tag, or commit to sync to
     path: storage-classes
   destination:
